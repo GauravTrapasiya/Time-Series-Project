@@ -1,0 +1,13 @@
+Q-1 : Analyse closing price of all the stocks.
+
+Q-2 : Analyse the total volume of stock being traded each day.
+
+Q-3 : Analyse daily price change in stock.
+
+Q-4 : Analyse monthly mean of close feature.
+
+Q-5 : Analyse the stock price co-rel or not(for all company).
+
+Q-6 : Analyse the daily return of each stock and how they are co-rel.
+
+Q-7 : Value at risk analysis for tech companies.
